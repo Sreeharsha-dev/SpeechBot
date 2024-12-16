@@ -8,7 +8,6 @@ A real-time voice-enabled chatbot that uses speech recognition, Google's Gemini 
 - 🤖 AI-powered responses using Google's Gemini Pro
 - 🔊 Natural text-to-speech output
 - 💬 Interactive chat interface
-- 🌓 Light/Dark mode support
 - ⚡ Real-time response handling
 
 ## Tech Stack
