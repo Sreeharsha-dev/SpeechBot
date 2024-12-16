@@ -1,4 +1,4 @@
-# Voice Chatbot
+# SpeechBot
 
 A real-time voice-enabled chatbot that uses speech recognition, Google's Gemini Pro AI, and text-to-speech synthesis for natural conversations.
 
@@ -81,7 +81,7 @@ A real-time voice-enabled chatbot that uses speech recognition, Google's Gemini 
 ## Project Structure
 
 ```
-voice-chatbot/
+SpeechBot/
 ├── frontend/
 │   ├── index.html          # Main HTML file
 │   ├── style.css           # Styles
